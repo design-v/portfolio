@@ -57,3 +57,7 @@ footer {
 span {
     color: #FF4900;
 }
+div {
+    flex: center;
+}
+
