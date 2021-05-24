@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <title>Об авторе</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="index.html">Главная</a>
+    </header>
+    <div>
+    <main>
+      <h1><img src="https://github.com/design-v/portfolio/blob/main/%D0%A1%D1%82%D1%80%D0%BE%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0%20%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F.png?raw=true"/></h1>
+        <p>Привет! Меня зовут Вика, мне 13 лет, делаю сайты</p>
+      <img src="https://cdn.pixabay.com/photo/2021/01/31/21/19/woman-5968586_960_720.jpg"/>
+    </main>
+    </div>
+    <footer>
+    <p><span>Телефон:</span> 8 800 555-35-35</p>
+    </footer>
+  </body>
+</html>
