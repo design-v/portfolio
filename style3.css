@@ -38,7 +38,7 @@ ol {
     font-size: larger;
 }
 div {
-    display: flex;
     justify-content: center;
+    margin-left: 220px;
+    width: 500px;
 }
-
