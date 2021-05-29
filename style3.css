@@ -40,5 +40,6 @@ ol {
 div {
     justify-content: center;
     margin-left: 220px;
+    margin-top: 30px;
     width: 500px;
 }
